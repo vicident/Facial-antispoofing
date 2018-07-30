@@ -23,9 +23,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         libpng-dev \
         libtiff5-dev \
         libjasper-dev \
-        libtbb-dev
-
-RUN apt-get install -y unzip
+        libtbb-dev \
+        unzip
 
 # Install Anaconda
 RUN echo 'export PATH=/opt/conda/bin:$PATH' > /etc/profile.d/conda.sh && \
