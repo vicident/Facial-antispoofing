@@ -1,0 +1,478 @@
+[
+  {
+    "code": "AA5733",
+    "name": "Acer Aspire 5733"
+  },
+  {
+    "code": "AA6000",
+    "name": "Asus A6000"
+  },
+  {
+    "code": "AAE5573GP98K",
+    "name": "Acer Aspire E5-573G-P98K"
+  },
+  {
+    "code": "AAL1717",
+    "name": "Aser AL1717"
+  },
+  {
+    "code": "AAL1751",
+    "name": "Acer AL1751"
+  },
+  {
+    "code": "AAL1917",
+    "name": "Acer AL1917"
+  },
+  {
+    "code": "AAR7",
+    "name": "Acer Aspire R7-571"
+  },
+  {
+    "code": "ACER5820TG",
+    "name": "Acer 5820TG"
+  },
+  {
+    "code": "AE5630",
+    "name": "Acer Extensa 5630"
+  },
+  {
+    "code": "AEEX2511G323A",
+    "name": "Acer Extensa EX2511G-323A"
+  },
+  {
+    "code": "AEEX2511G35D4",
+    "name": "Acer Extensa EX2511G-35D4"
+  },
+  {
+    "code": "AEME725",
+    "name": "Acer Emachines E725"
+  },
+  {
+    "code": "AEUNKNOWN",
+    "name": "Acer Extensa UNKNOWN"
+  },
+  {
+    "code": "AF550C",
+    "name": "Asus F550C"
+  },
+  {
+    "code": "AK73S",
+    "name": "Asus K73S"
+  },
+  {
+    "code": "ALUNKNOWN",
+    "name": "Acer Laptop UNKNOWN"
+  },
+  {
+    "code": "AS243HL",
+    "name": "Acer S243HL"
+  },
+  {
+    "code": "ASM710N",
+    "name": "Samsung SyncMaster 710N"
+  },
+  {
+    "code": "ATMP253MG",
+    "name": "Acer TravelMate P253-MG"
+  },
+  {
+    "code": "ATP259MG",
+    "name": "Acer Travelmate P259-MG"
+  },
+  {
+    "code": "AUNKNOWN",
+    "name": "Accer UNKNOWN"
+  },
+  {
+    "code": "AV203H",
+    "name": "Acer V203H"
+  },
+  {
+    "code": "AV425HL",
+    "name": "Acer V245HLbd"
+  },
+  {
+    "code": "AVC239H",
+    "name": "Asus VC239H"
+  },
+  {
+    "code": "AVW222U",
+    "name": "ASUS VW222U"
+  },
+  {
+    "code": "AX200MA",
+    "name": "ASUS X200MA"
+  },
+  {
+    "code": "AX541NADM379",
+    "name": "Asus X541NA-DM379"
+  },
+  {
+    "code": "AX751N",
+    "name": "Asus X751N"
+  },
+  {
+    "code": "AZPP01T",
+    "name": "ASUS ZenPad P01T"
+  },
+  {
+    "code": "BLED43E6000S",
+    "name": "Bravis LED-43E6000 Smart"
+  },
+  {
+    "code": "BQEW2730",
+    "name": "BENQ EW2730"
+  },
+  {
+    "code": "BQG2411HDA",
+    "name": "BENQ G2411HDA"
+  },
+  {
+    "code": "BQM2200HD",
+    "name": "BenQ M2200HD"
+  },
+  {
+    "code": "BQVW2245",
+    "name": "Benq vw2245"
+  },
+  {
+    "code": "BQXL2420",
+    "name": "BenQ XL2420"
+  },
+  {
+    "code": "C27F591FDI",
+    "name": "Samsung C27F591FDI XCI"
+  },
+  {
+    "code": "CLUNKNOWN",
+    "name": "Casper Laptop UNKNOWN"
+  },
+  {
+    "code": "DIGUNKNOWN",
+    "name": "Dell Inspiron Gaming UNKNOWN"
+  },
+  {
+    "code": "DLE6540",
+    "name": "DELL Latitude E6540"
+  },
+  {
+    "code": "DP2717H",
+    "name": "DELL P2717H"
+  },
+  {
+    "code": "DS2316H",
+    "name": "Dell S2316H"
+  },
+  {
+    "code": "DV3360",
+    "name": "Dell Vostro 3360"
+  },
+  {
+    "code": "DV5470",
+    "name": "Dell Vostro 5470"
+  },
+  {
+    "code": "G780",
+    "name": "Lenovo G780 Notebook"
+  },
+  {
+    "code": "HP15AC113UR",
+    "name": "Laptop HP 15ac113ur"
+  },
+  {
+    "code": "HP15BA601UR",
+    "name": "HP 15-ba601ur"
+  },
+  {
+    "code": "HP17AN005NT",
+    "name": "Laptop HP Omen 17an005nt"
+  },
+  {
+    "code": "HP250",
+    "name": "Laptop HP 250"
+  },
+  {
+    "code": "HP250G6",
+    "name": "Laptop HP 250 G6"
+  },
+  {
+    "code": "HP3165NGW",
+    "name": "Hp 3165NGW"
+  },
+  {
+    "code": "HP620",
+    "name": "HP 620"
+  },
+  {
+    "code": "HPE17J001ER",
+    "name": "HP ENVY 17-j001er"
+  },
+  {
+    "code": "HPPB4540S",
+    "name": "HP ProBook 4540s"
+  },
+  {
+    "code": "HPPDV63070ER",
+    "name": "HP Pavilion dv6-3070er"
+  },
+  {
+    "code": "HPPEXP",
+    "name": "HP Premier Experience"
+  },
+  {
+    "code": "HPZR2240W",
+    "name": "HP ZR2240w"
+  },
+  {
+    "code": "I2269VWM",
+    "name": "AOC I2269Vwm s2"
+  },
+  {
+    "code": "I2369VM",
+    "name": "LOC I2369Vm"
+  },
+  {
+    "code": "IIYAMAGB",
+    "name": "Iiyama G-Master GB2488HSU"
+  },
+  {
+    "code": "IIYAMAXB",
+    "name": "Iiyama ProLite XB3227OQS"
+  },
+  {
+    "code": "IIYAMAXU",
+    "name": "Iiyama ProLite XU2590HS"
+  },
+  {
+    "code": "L1752S",
+    "name": "LG Flatron L1752S"
+  },
+  {
+    "code": "L5001EL",
+    "name": "Toshiba Satellite L500-1EL"
+  },
+  {
+    "code": "LG22EA53T",
+    "name": "LG 22EA53T"
+  },
+  {
+    "code": "LG43UF680V",
+    "name": "LG 43UF680V"
+  },
+  {
+    "code": "LG50",
+    "name": "Lenovo G50"
+  },
+  {
+    "code": "LG58020157",
+    "name": "Lenovo G580 20157"
+  },
+  {
+    "code": "LGE2360",
+    "name": "LG E2360"
+  },
+  {
+    "code": "LGFE1960SPN",
+    "name": "LG Flatron E1960S PN"
+  },
+  {
+    "code": "LGFE2240",
+    "name": "LG FLATRON E2240 S-PN"
+  },
+  {
+    "code": "LGFIPS235VBN",
+    "name": "LG Flatron ips235v-bn"
+  },
+  {
+    "code": "LGFUNKNOWN",
+    "name": "LG Flatron UNKNOWN"
+  },
+  {
+    "code": "LI510S",
+    "name": "Lenovo Ideapad 510S"
+  },
+  {
+    "code": "LIP110",
+    "name": "Lenovo IdeaPad 110"
+  },
+  {
+    "code": "LIPS12",
+    "name": "Lenovo IdeaPad S12"
+  },
+  {
+    "code": "LIPY2P",
+    "name": "Lenovo IdeaPad Yoga 2 Pro"
+  },
+  {
+    "code": "LIPZ570",
+    "name": "Lenovo IdeaPad Z570"
+  },
+  {
+    "code": "LLUNKNOWN",
+    "name": "Lenovo Laptop UNKNOWN"
+  },
+  {
+    "code": "LUNKNOWN",
+    "name": "Lenovo UNKNOWN"
+  },
+  {
+    "code": "LY300",
+    "name": "Lenovo Yoga 300"
+  },
+  {
+    "code": "LZ500",
+    "name": "Lenovo z500"
+  },
+  {
+    "code": "MBP1314",
+    "name": "Apple MacbookPro13 mid.2014"
+  },
+  {
+    "code": "MSIGS60",
+    "name": "MSI GS60 2qd-602tr"
+  },
+  {
+    "code": "NEC90GX2",
+    "name": "NEC MultiSync 90GX2"
+  },
+  {
+    "code": "P226VLSB00",
+    "name": "Philips 226V3LSB/00"
+  },
+  {
+    "code": "PBLS11HR",
+    "name": "Packard Bell EasyNote LS11HR"
+  },
+  {
+    "code": "PBQ5WTS",
+    "name": "Packard Bell Q5WTS"
+  },
+  {
+    "code": "PBUNKNOWN",
+    "name": "Packard Bell UNKNOWN"
+  },
+  {
+    "code": "PRS133S",
+    "name": "Prestigio Smartbook 133s"
+  },
+  {
+    "code": "RBNV771",
+    "name": "RoverBook Nautilus V771"
+  },
+  {
+    "code": "S198150N",
+    "name": "Samsung S198150N"
+  },
+  {
+    "code": "S300U1A",
+    "name": "Samsung 300U1a"
+  },
+  {
+    "code": "SHIVAKIUNKNOWN",
+    "name": "Shivaki UNKNOWN"
+  },
+  {
+    "code": "SLS24E390HL0",
+    "name": "SAMSUNG LS24E390HL0"
+  },
+  {
+    "code": "SM943N",
+    "name": "Samsung 943N"
+  },
+  {
+    "code": "SR518",
+    "name": "Samsung R518"
+  },
+  {
+    "code": "SRV508",
+    "name": "SAMSUNG RV508"
+  },
+  {
+    "code": "SS22C200",
+    "name": "Samsung s22c200"
+  },
+  {
+    "code": "SSM20B370",
+    "name": "Samsung SyncMaster S20B370"
+  },
+  {
+    "code": "SSM2232BW",
+    "name": "Samsung SincMaster 2232bw"
+  },
+  {
+    "code": "SSM23B300",
+    "name": "Samsung SyncMaster S23B300"
+  },
+  {
+    "code": "SSM2433",
+    "name": "Samsung SyncMaster 2433"
+  },
+  {
+    "code": "SSM757MB",
+    "name": "Samsung SyncMaster 757MB"
+  },
+  {
+    "code": "SSM763MB",
+    "name": "Samsung SyncMaster 763mb"
+  },
+  {
+    "code": "SSM920n",
+    "name": "Samsung SyncMaster 920n"
+  },
+  {
+    "code": "SSM940N",
+    "name": "Samsung SyncMaster 940N"
+  },
+  {
+    "code": "SSMB2430",
+    "name": "SAMSUNG SyncMaster B2430"
+  },
+  {
+    "code": "SSMP2250",
+    "name": "Samsung SyncMaster P2250"
+  },
+  {
+    "code": "SUNKNOWN",
+    "name": "Samsung UNKNOWN"
+  },
+  {
+    "code": "TFT22W90PS",
+    "name": "AOC TFT22W90PS"
+  },
+  {
+    "code": "TP300LA",
+    "name": "Asus TP300LA"
+  },
+  {
+    "code": "TSLCD1510",
+    "name": "Techno TS-LCD-1510"
+  },
+  {
+    "code": "TSUNKNOWN",
+    "name": "Toschiba Satellite UNKNOWN"
+  },
+  {
+    "code": "UNKNOWN",
+    "name": "UNKNOWN"
+  },
+  {
+    "code": "UNKNOWN",
+    "name": "Philips UNKNOWN"
+  },
+  {
+    "code": "VSUNKNOWN",
+    "name": "ViewSonic UNKNOWN"
+  },
+  {
+    "code": "VSVA2231WA",
+    "name": "ViewSonic VA2231wa"
+  },
+  {
+    "code": "VSVG2021M",
+    "name": "ViewSonic VG2021m"
+  },
+  {
+    "code": "VX2363SMHL",
+    "name": "Viewsonic VX2363SMHL"
+  }
+]
