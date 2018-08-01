@@ -456,10 +456,6 @@
     "name": "UNKNOWN"
   },
   {
-    "code": "UNKNOWN",
-    "name": "Philips UNKNOWN"
-  },
-  {
     "code": "VSUNKNOWN",
     "name": "ViewSonic UNKNOWN"
   },
@@ -474,5 +470,13 @@
   {
     "code": "VX2363SMHL",
     "name": "Viewsonic VX2363SMHL"
+  },
+  {
+    "code": "P223V5LSB",
+    "name": "Philips 223V5LSB"
+  },
+  {
+    "code": "MBA1315",
+    "name": "Apple MacbookAir13 mid.2015"
   }
 ]

@@ -292,10 +292,6 @@
     "name": "Xiaomi Redmi 4A"
   },
   {
-    "code": "REDMI4A",
-    "name": "Xiomi Redmi 4A"
-  },
-  {
     "code": "REDMI4X",
     "name": "Xiaomi Redmi 4X"
   },
@@ -442,5 +438,9 @@
   {
     "code": "ZTEBA2",
     "name": "ZTE Blade A2"
+  },
+  {
+    "code": "IPHONE8B",
+    "name": "Apple iPhone 8 back camera"
   }
 ]
