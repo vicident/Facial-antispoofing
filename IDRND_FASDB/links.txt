@@ -1,0 +1,6 @@
+# Train
+https://drive.google.com/file/d/1xmALNsYW-zm-Id9T6Ku2H4_cBWoqn23s
+# Validation
+https://drive.google.com/file/d/1HQaBiHDa9wstGMmIS_osBxxDsfYBTivt
+# Test
+https://drive.google.com/file/d/1teaLCo-F-5RCQM8Puxqbk13bI0evqIzg
