@@ -34,3 +34,5 @@
 Создание контейнера и запуск:
 
     docker run -v <train_dir>:/train -v <val_dir>:/validation -v <test_dir>:/test -v <output_dir>:/output -v $(pwd):/src/notebooks -it winner/container:1.0
+
+![alt text](https://docs.docker.com/ "Справочник по докеру")
