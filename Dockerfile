@@ -77,9 +77,11 @@ RUN mkdir /opt/opencv && mkdir /opt/opencv_contrib && cd /opt/opencv_contrib \
 
 RUN conda config --add channels conda-forge && conda install catboost tqdm
 
-WORKDIR /root
-VOLUME /root/ssd
-COPY / /root
+WORKDIR /src
+VOLUME /output
+VOLUME /train
+VOLUME /test
+VOLUME /src/notebooks
 EXPOSE 8888
 CMD jupyter notebook --ip=0.0.0.0
 
